@@ -1,4 +1,4 @@
-# nmi-hash
+# nmihash
 
 > Package nmihash is used as a source code example for a Go (golang) implementation of the examples found at:
 // https://support.nmi.com/hc/en-gb/articles/115001683343-Implementation-Generating-a-Hash-Code
